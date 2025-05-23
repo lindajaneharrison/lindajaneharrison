@@ -1,4 +1,4 @@
-Hello, I'm Linda Harrison and a Statistician working on infectious disease clinical trials at the Center for Biostatistics in AIDS Research (CBAR) at the Harvard TH Chan School of Public Health.
+Hello, I'm Linda Harrison a Statistician working on infectious disease clinical trials at the Center for Biostatistics in AIDS Research (CBAR) at the Harvard TH Chan School of Public Health.
 
 You can reach me at: ljh916@mail.harvard.edu
 
